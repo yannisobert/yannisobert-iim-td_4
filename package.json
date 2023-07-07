@@ -4,7 +4,8 @@
   "description": "It's the description!",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "eslint": "npx eslint index.js"
   },
   "repository": {
     "type": "git",
